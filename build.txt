@@ -1,1 +1,3 @@
 I am in the company
+
+When collaborating with a team it is common to utilize remote repositories
